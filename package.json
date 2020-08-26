@@ -1,0 +1,15 @@
+{
+  "name": "bubblecheck",
+  "author": "Taylor Reece <taylor.reece@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "frontend",
+      "backend"
+    ]
+  },
+  "devDependencies": {
+    "prettier": "^2.1.0"
+  }
+}
